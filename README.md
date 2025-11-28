@@ -13,7 +13,7 @@ build.nvdia.com
 huggingface.co/nvdia
 
 # Blog
-Getting Started with NVIDIA Build: API Keys (https://medium.com/p/60d318ee4890)[https://medium.com/p/60d318ee4890]
+- [Getting Started with NVIDIA Build: API Keys](https://medium.com/p/60d318ee4890)
 
 ## Useful Links
 
