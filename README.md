@@ -105,7 +105,7 @@ To access NVIDIA's AI models and APIs, you'll need to create an API key:
 | Resource | Description | Link |
 |----------|-------------|------|
 | 🤗 **NVIDIA on Hugging Face** | Pre-trained models, datasets, and spaces from NVIDIA | [huggingface.co/nvidia](https://huggingface.co/nvidia) |
-| 🧠 **Nemotron Models** | NVIDIA's family of large language models | [Nemotron Collection](https://huggingface.co/collections/nvidia/nemotron-4-340b-666b7ebaf1b3867caf2730e6) |
+| 🧠 **Nemotron Models** | NVIDIA's family of large language models | [Nemotron Collection](https://huggingface.co/collections/nvidia/nvidia-nemotron-v2) |
 | 🎨 **NVLM Models** | NVIDIA's vision-language models | [NVLM Collection](https://huggingface.co/nvidia/NVLM-D-72B) |
 
 ## AI & Machine Learning
