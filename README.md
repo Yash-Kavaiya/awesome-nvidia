@@ -1,10 +1,19 @@
-# NVDIA-Developer
+# NVIDIA-Developer
+
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [NVIDIA Developer](https://developer.nvidia.com/) |
+| 📺 YouTube | [NVIDIA Developer](https://www.youtube.com/nvidiadeveloper) |
+| 🏆 Developer Program | [NVIDIA Developer Program](https://developer.nvidia.com/developer-program) |
+| 🐦 X | [@NVIDIADeveloper](https://x.com/nvidiadeveloper) |
+| 📸 Instagram | [@NVIDIADeveloper](https://www.instagram.com/nvidiadeveloper/) |
 
 create NVIDIA API Key
 build.nvdia.com
 huggingface.co/nvdia
 
-
+# Blog
+Getting Started with NVIDIA Build: API Keys (https://medium.com/p/60d318ee4890)[https://medium.com/p/60d318ee4890]
 
 ## Useful Links
 
