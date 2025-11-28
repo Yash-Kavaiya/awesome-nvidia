@@ -118,7 +118,7 @@ A scalable, cloud-native generative AI framework for building, customizing, and 
 |----------|-------------|------|
 | 📦 **GitHub** | NeMo framework source code | [github.com/NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) |
 | 📖 **Documentation** | Complete NeMo documentation | [docs.nvidia.com/nemo-framework](https://docs.nvidia.com/nemo-framework/user-guide/latest/index.html) |
-| 🎓 **Tutorials** | Getting started guides and examples | [NeMo Tutorials](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tutorials.html) |
+| 🎓 **Tutorials** | Getting started guides and examples | [NeMo Tutorials](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/) |
 
 ### NVIDIA NeMo Agent Toolkit
 
