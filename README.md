@@ -324,8 +324,3 @@ NVIDIA's premier AI conference featuring keynotes, technical sessions, and hands
 | 🎪 **GTC Website** | Conference information and registration | [nvidia.com/gtc](https://www.nvidia.com/gtc/) |
 | 📺 **On-Demand Sessions** | Access past GTC sessions | [GTC On-Demand](https://www.nvidia.com/gtc/on-demand/) |
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This list is released into the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
