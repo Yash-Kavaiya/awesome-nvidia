@@ -23,8 +23,6 @@
   <a href="#community">Community</a>
 </p>
 
----
-
 ## 📋 Table of Contents
 
 - [NVIDIA Developer](#nvidia-developer)
